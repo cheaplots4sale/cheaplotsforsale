@@ -169,7 +169,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../img/intro-bg.jpg) center center no-repeat;
+	background: url(../img/beach-lot.jpg) center center no-repeat;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -177,7 +177,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-o-background-size: cover;
 }
 .intro .overlay {
-	background: rgba(0,0,0,0.3);
+	background: rgba(0,0,0,0);
 }
 .intro h1 {
 	font-family: 'Montserrat', sans-serif;
@@ -190,9 +190,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro p {
 	color: #fff;
-	font-size: 17px;
-	line-height: 28px;
-	padding: 15px;
+	font-size: 19px;
+	line-height: 23px;
+	padding: 10px;
 	max-width: 600px;
 	margin: 0 auto;
 	margin-bottom: 40px;
@@ -210,7 +210,7 @@ header .intro-text {
 	background: #1f386e;
 }
 #get-touch h3 {
-	font-size: 24px;
+	font-size: 22px;
 	font-weight: 400;
 	color: #fff;
 	margin: 0 0 10px 0;
@@ -265,7 +265,7 @@ header .intro-text {
 }
 #about img {
 	padding: 20px;
-	width: 500px;
+	width: 430px;
 	margin-top: 10px;
 	background: #fff;
 	border-right: 0;
